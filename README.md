@@ -10,5 +10,5 @@
     + Phân trang dữ liệu.
   - Hình ảnh demo:
 
-<img src="https://user-images.githubusercontent.com/73806593/113843148-8c191800-97bd-11eb-8338-184bc15ca62d.jpg" width="300px" height = "300px"></img> 
+<img src="https://user-images.githubusercontent.com/73806593/113849570-d8675680-97c3-11eb-8856-f8717aa05dec.PNG" width="300px"></img>  
 
