@@ -15,3 +15,19 @@
 <img src="https://user-images.githubusercontent.com/73806593/113850684-ea95c480-97c4-11eb-8169-f2cf6498b6fc.PNG" width="500px" height = "300px"></img>
 <img src="https://user-images.githubusercontent.com/73806593/113851626-e4541800-97c5-11eb-9f1b-8dd10ac85547.PNG" width="500px" height = "300px"></img>
 
+# Project 2: Xây dựng website quản lý kho (điện thoại, máy tính...)
+  - Công cụ xây dựng:
+    + Client: HTML, CSS, JAVASCRIPT, BOOSTRAP, JQUERY
+    + SERVER: SPRING MVC, HIBERNATE, JSON, Restful API Web Service, SiteMesh
+  - Chức năng nghiệp vụ:
+    + Phân quyền.
+    + Thêm, sửa, xoá dữ liệu.
+    + Upload file, xuất báo cáo.
+    + Phân trang.
+    + Tìm Kiếm.
+  - Hình ảnh demo:
+ 
+ 
+ 
+
+
