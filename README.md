@@ -19,6 +19,7 @@
   - Công cụ xây dựng:
     + Client: HTML, CSS, JAVASCRIPT, BOOSTRAP, JQUERY
     + SERVER: SPRING MVC, HIBERNATE, JSON, Restful API Web Service, SiteMesh
+    + DATABASE: MySQL
   - Chức năng nghiệp vụ:
     + Phân quyền.
     + Thêm, sửa, xoá dữ liệu.
@@ -27,6 +28,8 @@
     + Tìm Kiếm.
   - Hình ảnh demo:
  
+<img src="https://user-images.githubusercontent.com/73806593/113997139-0ca14c80-9882-11eb-941e-40bc2e53aead.PNG" width="500px" height = "300px"></img>
+<img src="https://user-images.githubusercontent.com/73806593/113998617-6e15eb00-9883-11eb-81f2-c2e90e206bf2.PNG" width="500px" height = "300px"></img> 
  
  
 
